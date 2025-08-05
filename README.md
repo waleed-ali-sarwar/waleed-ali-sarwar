@@ -71,11 +71,7 @@ Hi there! I'm **Waleed Ali Sarwar**, a passionate **Bioinformatics** student and
 
 ## 📊 GitHub Stats & Graphs
 
-![Waleed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WaleedAliSarwar&show_icons=true&theme=tokyonight&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedAliSarwar&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=WaleedAliSarwar&theme=tokyonight)
+![Waleed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Waleed-Ali-Sarwar&show_icons=true&theme=tokyonight&hide_title=true) ![GitHub Streak](https://streak-stats.demolab.com/?user=Waleed-Ali-Sarwar&theme=tokyonight)
 
 ## Get In Touch  
 
