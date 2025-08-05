@@ -10,7 +10,7 @@ Hi! I'm **Waleed Ali Sarwar**, a passionate **Bioinformatics** student and a ded
 ### ⚗️ Bioinformatics  
 - Data Analysis • Molecular Modeling • Proteomics  • Software Development
 
-
+### 🌐 Technical Skills
 **🌐 Frontend**  
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Blazor-Wasm](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)  ![REST API](https://img.shields.io/badge/REST%20API-00C7B7?style=for-the-badge&logo=api&logoColor=white)
 
