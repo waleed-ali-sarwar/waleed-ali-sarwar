@@ -1,25 +1,19 @@
-# Welcome to My GitHub Profile! 👋  
-
-## About Me  
-
-Hi there! I'm **Waleed Ali Sarwar**, a passionate **Bioinformatics** student and a dedicated **.NET Full Stack Developer**. I love exploring the intersections of **biology and technology** and developing innovative software solutions.  
+Hi! I'm **Waleed Ali Sarwar**, a passionate **Bioinformatics** student and a dedicated **.NET Full Stack Developer**. I love exploring the intersections of **biology and technology** and developing innovative software solutions.  
 
 ## Education & Interests  
 
 - 🎓 **Bioinformatics Student** | Virtual University of Pakistan  
 - 💻 **.NET Full Stack Developer** | Passionate about building robust and scalable applications  
 
-## Skills & Technologies  
+## 🧪 Skills & Technologies
 
-### **Bioinformatics**  
-- 🧬 Genomic Data Analysis  
-- 🧫 Molecular Modeling  
-- 🗄️ Proteomics  
-- 🔬 Bioinformatics Tools: BLAST, ClustalW, etc.  
+### ⚗️ Bioinformatics  
+- Data Analysis • Molecular Modeling • Proteomics  • Software Development
 
 
 **🌐 Frontend**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Blazor-Wasm](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)  ![REST API](https://img.shields.io/badge/REST%20API-00C7B7?style=for-the-badge&logo=api&logoColor=white)
+
 
 **⚙️ Backend**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -28,7 +22,7 @@ Hi there! I'm **Waleed Ali Sarwar**, a passionate **Bioinformatics** student and
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 **🛠️ Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![BLAST](https://img.shields.io/badge/BLAST-006699?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2Zy8+/svg&logoColor=white)  ![ClustalW](https://img.shields.io/badge/ClustalW-228B22?style=for-the-badge&logoColor=white)  ![Chimera](https://img.shields.io/badge/Chimera-8B0000?style=for-the-badge&logoColor=white)  ![MEGA11](https://img.shields.io/badge/MEGA11-1E90FF?style=for-the-badge&logoColor=white)  ![Lipplot++](https://img.shields.io/badge/Lipplot++-4B0082?style=for-the-badge&logoColor=white)
 
 
 ## 🚧 Projects
