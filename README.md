@@ -1,9 +1,9 @@
-Hi! I'm **Waleed Ali Sarwar**, a passionate **Bioinformatics** student and a dedicated **.NET Full Stack Developer**. I love exploring the intersections of **biology and technology** and developing innovative software solutions.  
+Hi! I'm **Waleed Ali Sarwar**, a passionate **Bioinformatics**. I love exploring the intersections of **biology and technology** and developing innovative software solutions.  
 
 ## Education & Interests  
 
 - 🎓 **Bioinformatics Student** | Virtual University of Pakistan  
-- 💻 **.NET Full Stack Developer** | Passionate about building robust and scalable applications  
+- 💻 **Flutter Developer** | Passionate about building robust and scalable applications  
 
 ## 🧪 Skills & Technologies
 
