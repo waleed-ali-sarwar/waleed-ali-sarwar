@@ -3,7 +3,7 @@ Hi! I'm **Waleed Ali Sarwar**, a passionate **Bioinformatics**. I love exploring
 ## Education & Interests  
 
 - 🎓 **Bioinformatics Student** | Virtual University of Pakistan  
-- 💻 **Flutter Developer** | Passionate about building robust and scalable applications  
+- 💻 **Flutter & Web Developer** | Passionate about building robust and scalable applications  
 
 ## 🧪 Skills & Technologies
 
