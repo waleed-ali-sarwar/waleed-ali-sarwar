@@ -29,6 +29,13 @@ Hi! I'm **Waleed Ali Sarwar**, a passionate **Bioinformatics**. I love exploring
 
 ## 🚧 Projects
 
+🎯 [**Flutter Quiz**](https://play.google.com/store/apps/details?id=live.waleedalisarwar.quiz_app_flutter)  
+*Tech Stack:* Flutter • Dart • 
+ An engaging and responsive quiz application built with Flutter, designed to deliver a smooth and interactive learning experience. 
+ Features dynamic question sets and  a clean, modern UI — allowing users to test and improve their knowledge anytime, anywhere.
+ *(Available now on Google Play.)*
+
+
 - 🎉 [**Event Ease**](https://proud-mud-095041a00.6.azurestaticapps.net/)  
   *Tech Stack:* Blazor WebAssembly • .NET • Azure Static Web Apps  
   A modern event management frontend built with Blazor WASM and deployed on Azure. Designed to deliver a smooth user experience for browsing and organizing events. *(Note: Deployment currently under maintenance.)*
