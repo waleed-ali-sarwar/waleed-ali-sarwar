@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Waleed Ali Sarwar</h1>
-<h3 align="center">A passionate Bioinformatics student & Full-Stack Developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Waleed</h1>
+<h3 align="center">A passionate Bioinformatics student & Mobile App Developer from Pakistan</h3>
 
 <p align="center">
   Bridging biology and technology through scalable software, visual storytelling, and community-driven learning.
