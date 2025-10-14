@@ -53,6 +53,6 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleed-ali-sarwar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=waleed-ali-sarwar&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://streak-stats.demolab.com/?user=waleed-ali-sarwar&theme=tokyonight" alt="GitHub Streak" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleed-ali-sarwar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=waleed-ali-sarwar&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+<img align="center" src="https://streak-stats.demolab.com/?user=waleed-ali-sarwar&theme=tokyonight" alt="GitHub Streak" />
